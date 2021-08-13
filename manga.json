@@ -1,7 +1,9 @@
 {
     "id": 1,
     "title": "Solo Leveling",
-    "altTitle": "Solo",
+    "altTitle": "Solo", 
+ "description":"description", 
+ "coverUrl":"coverUrl"
     "author": "sezer",
     "artist": "chinjoka",
     "year": "2021",
@@ -16,7 +18,9 @@
 {
     "id": 2,
     "title": "Solo Leveling",
-    "altTitle": "Solo",
+    "altTitle": "Solo", 
+ "description":"description", 
+ "coverUrl":"coverUrl"
     "author": "sezer",
     "artist": "chinjoka",
     "year": "2021",
@@ -32,7 +36,9 @@
 {
     "id": 3,
     "title": "Solo Leveling",
-    "altTitle": "Solo",
+    "altTitle": "Solo", 
+ "description":"description", 
+ "coverUrl":"coverUrl"
     "author": "sezer",
     "artist": "chinjoka",
     "year": "2021",
@@ -48,7 +54,9 @@
 {
     "id": 4,
     "title": "Solo Leveling",
-    "altTitle": "Solo",
+    "altTitle": "Solo", 
+ "description":"description", 
+ "coverUrl":"coverUrl"
     "author": "sezer",
     "artist": "chinjoka",
     "year": "2021",
@@ -63,7 +71,9 @@
 {
     "id": 5,
     "title": "Solo Leveling",
-    "altTitle": "Solo",
+    "altTitle": "Solo", 
+ "description":"description", 
+ "coverUrl":"coverUrl"
     "author": "sezer",
     "artist": "chinjoka",
     "year": "2021",
@@ -78,7 +88,9 @@
 {
     "id": 6,
     "title": "Solo Leveling",
-    "altTitle": "Solo",
+    "altTitle": "Solo", 
+ "description":"description", 
+ "coverUrl":"coverUrl"
     "author": "sezer",
     "artist": "chinjoka",
     "year": "2021",
@@ -93,7 +105,9 @@
 {
     "id": 7,
     "title": "Solo Leveling",
-    "altTitle": "Solo",
+    "altTitle": "Solo", 
+ "description":"description", 
+ "coverUrl":"coverUrl"
     "author": "sezer",
     "artist": "chinjoka",
     "year": "2021",
@@ -108,7 +122,9 @@
 {
     "id": 8,
     "title": "Solo Leveling",
-    "altTitle": "Solo",
+    "altTitle": "Solo", 
+ "description":"description", 
+ "coverUrl":"coverUrl"
     "author": "sezer",
     "artist": "chinjoka",
     "year": "2021",
@@ -123,7 +139,9 @@
 {
     "id": 9,
     "title": "Solo Leveling",
-    "altTitle": "Solo",
+    "altTitle": "Solo", 
+ "description":"description", 
+ "coverUrl":"coverUrl"
     "author": "sezer",
     "artist": "chinjoka",
     "year": "2021",
@@ -138,7 +156,9 @@
 {
     "id": 10,
     "title": "Solo Leveling",
-    "altTitle": "Solo",
+    "altTitle": "Solo", 
+ "description":"description", 
+ "coverUrl":"coverUrl"
     "author": "sezer",
     "artist": "chinjoka",
     "year": "2021",
